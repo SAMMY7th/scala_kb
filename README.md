@@ -1,1 +1,1 @@
-Scalaビギナーズ関西のまとめwikiです。
+Scala関西ビギナーズ #scala_kbのまとめwikiです。
